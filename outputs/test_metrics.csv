@@ -1,0 +1,4 @@
+model,precision,recall,f1,roc_auc
+LogReg,0.504,0.783,0.614,0.841
+RandomForest,0.524,0.797,0.632,0.843
+XGBoost,0.519,0.797,0.629,0.845
