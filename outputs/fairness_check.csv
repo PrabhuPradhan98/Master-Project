@@ -1,0 +1,5 @@
+attribute,group,n,actual_churn_rate,predicted_churn_rate,recall
+gender,Female,687,0.281,0.399,0.777
+gender,Male,722,0.251,0.416,0.818
+SeniorCitizen,0,1187,0.233,0.36,0.757
+SeniorCitizen,1,222,0.441,0.662,0.908
